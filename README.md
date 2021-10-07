@@ -58,7 +58,7 @@ Withdraw
 ```
 
 # Set Up
-upload db (would have liked to have auto generated db from file)
+upload .sql file (would have liked to have auto generated db from file)
 change application.properties credentials
 
 
