@@ -62,4 +62,6 @@ upload .sql file (would have liked to have auto generated db from file)
 change application.properties credentials
 
 
+Project was created with SpringToolSuite4
+
 
